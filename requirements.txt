@@ -16,7 +16,7 @@ keras==3.13.1
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.10.0
-requests==2.32.4
+requests==2.33.0
 
 # Bibliotecas para trabalhar com bancos de dados
 sqlalchemy==1.4.23
